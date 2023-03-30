@@ -21,3 +21,6 @@ This project involves three key roles/domains: software engineers, data engineer
 
 ## Data Flow
 The data flow for this project involves three key roles/domains: software engineers, data engineers, and data analysts. The data flow starts with the creation and management of a MySQL database for online transaction processing (OLTP) by the software engineers. The data is then moved from the OLTP database to a data warehouse by the data engineers, using an ETL (extract, transform, load) process. The data warehouse stores and organizes the data for online analytical processing (OLAP). Finally, the data analysts use the data in the data warehouse to create a dashboard for visualizing and analyzing the data.
+
+![Data Flow Schema](Data%20Flow%20Schema.png)
+
