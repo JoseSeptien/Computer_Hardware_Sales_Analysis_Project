@@ -24,3 +24,8 @@ The data flow for this project involves three key roles/domains: software engine
 
 ![Data Flow Schema](images/Data_Flow_Schema.png)
 
+## Preview 
+![images/Image_1.png](images/Image_1.png)
+![images/Image_2.png](images/Image_2.png)
+![images/Image_3.png](images/Image_3.png)
+
